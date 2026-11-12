@@ -1,2 +1,1 @@
-# Proyecto_arquitectura_hanoi_ia
-el proyecto para arquitectura de computadoras hecho con IA
+en la linea 13 modifica el valor inmediato del addi para cambiar el numero de discos
